@@ -57,4 +57,4 @@ Dharohar(धरोहर) is hosted using Streamlit. You can access the applicat
 
 We welcome suggestions and contributions to improve Dharohar. If you have suggestions or want to add more places to the database, please contact us at [official.dhirajpant@gmail.com](mailto:official.dhirajpant@gmail.com).
 
-Enjoy exploring the beautiful places of the Far Western Province of Nepal with Dharohar(धरोहर).# Dharohar
+Enjoy exploring the beautiful places of the Far Western Province of Nepal with Dharohar(धरोहर).
