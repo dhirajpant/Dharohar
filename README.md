@@ -51,7 +51,7 @@ To get started with Dharohar(धरोहर), follow these steps:
 
 ## Usage
 
-Dharohar(धरोहर) is hosted using Streamlit. You can access the application at [darohar.streamlit.app](https://darohar.streamlit.app).
+Dharohar(धरोहर) is hosted using Streamlit. You can access the application at [dharohar.streamlit.app](https://dharohar.streamlit.app).
 
 ## Contributing
 
