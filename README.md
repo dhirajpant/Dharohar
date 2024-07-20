@@ -20,7 +20,7 @@ Dharohar(धरोहर) currently includes data for the following places:
 6. **Dodhara Chadani Suspension Bridge (दोधारा चाँदनी झोलुंगे पुल)**
 7. **Garva Durbar (गर्वा दरबार)**
 8. **GhodaGhodi Taal (घोडाघोडी ताल)**
-9. **Linga (लिङ्ग)**
+9. **Lingaa (लिङ्गा)**
 10. **Saileshwori Temple (सैलेश्वरी मन्दिर)**
 11. **Suklaphanta National Park (शुक्लाफाँटा राष्ट्रिय निकुञ्ज)**
 12. **Surma Sarovar (सुरमा सरोवर)**
