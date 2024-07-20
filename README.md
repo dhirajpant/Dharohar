@@ -46,7 +46,7 @@ To get started with Dharohar(धरोहर), follow these steps:
    ```
 4. Run the application:
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 ## Usage
