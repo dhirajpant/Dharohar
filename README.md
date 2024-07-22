@@ -58,3 +58,5 @@ Dharohar(धरोहर) is currently hosted using Streamlit. You can access th
 We welcome suggestions and contributions to improve Dharohar. If you have suggestions or want to add more places to the database, please contact us at [official.dhirajpant@gmail.com](mailto:official.dhirajpant@gmail.com).
 
 Enjoy exploring the beautiful places of the Far Western Province of Nepal with Dharohar(धरोहर).
+
+© 2024 Dharohar.All rights reserved
