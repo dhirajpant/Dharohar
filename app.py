@@ -90,7 +90,7 @@ if 'predicted_place' in st.session_state:
         if st.button("Show in English"):
             st.session_state['description_language'] = "english"
             st.rerun()
-
+st.text("How do you rate us?")
 sentiment_mapping = ["one", "two", "three", "four", "five"]
 selected = st.feedback("stars")
 if selected is not None:
